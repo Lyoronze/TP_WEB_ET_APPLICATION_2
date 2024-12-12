@@ -1,0 +1,3 @@
+$(documlent).ready(function()){
+
+}

@@ -1,0 +1,14 @@
+form{
+    margin: auto;
+    width: 25%;
+    margin-top:100px;
+    display: flex;
+    flex-direction: column;
+    padding:25px;
+    background-color: aliceblue;
+}
+form input [type-='email']{
+    font-size: 15px;
+    padding: 5px;
+    border-radius: 5px;
+}
